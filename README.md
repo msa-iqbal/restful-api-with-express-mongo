@@ -21,8 +21,6 @@ A RESTful API for managing TODO items built using **Node.js**, **Express.js**, a
 | Mongoose   | ODM for MongoDB                |
 | Postman    | API testing tool               |
 
----
-
 ## Installation
 
 Follow these steps to set up the project locally:
@@ -31,7 +29,7 @@ Follow these steps to set up the project locally:
 2. **Install dependencies**:
 
    ```bash
-   yarn install
+   npm install
    ```
 
 3. **Start MongoDB**: Ensure MongoDB is running locally on `mongodb://127.0.0.1:27017`.
@@ -62,7 +60,7 @@ todo-api/
 
 ## API Endpoints
 
-### 1. GET All Todos
+#### ⿻ GET All Todos
 
 - **Endpoint**: `/todo`
 
@@ -82,13 +80,13 @@ todo-api/
   }
   ```
 
-### 2. GET a Todo by ID
+#### ⿻ GET a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 - **Method**: `GET`
 - **Description**: Fetch a specific Todo item by ID.
 
-### 3. POST a Todo
+#### ⿻ POST a Todo
 
 - **Endpoint**: `/todo`
 
@@ -114,7 +112,7 @@ todo-api/
   }
   ```
 
-### 4. POST Multiple Todos
+#### ⿻ POST Multiple Todos
 
 - **Endpoint**: `/todo/all`
 
@@ -131,7 +129,7 @@ todo-api/
   ]
   ```
 
-### 5. PUT (Update) a Todo by ID
+#### ⿻ PUT (Update) a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 
@@ -148,38 +146,16 @@ todo-api/
   }
   ```
 
-### 6. DELETE a Todo by ID
+#### ⿻ DELETE a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 - **Method**: `DELETE`
 - **Description**: Deletes a specific Todo by ID.
 
-## **Contributing**
+## **📌 License**
 
-Contributions are welcome! Follow these steps:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-1. Fork the repository.
+## **🤝 Contributing**
 
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature-branch
-   ```
-
-3. Commit changes:
-
-   ```bash
-   git commit -m "Add your message"
-   ```
-
-4. Push to the branch:
-
-   ```bash
-   git push origin feature-branch
-   ```
-
-5. Open a pull request.
-
-## **License**
-
-This project is open-source and available under the **MIT License**.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
