@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "675eceb97ef881f80f419fa5"
+  },
+  "title": "HTML5",
+  "description": "Web Structure",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T12:42:33.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675eceb97ef881f80f419fa6"
+  },
+  "title": "CSS3",
+  "description": "Web Page Style",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T12:42:33.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675eceb97ef881f80f419fa7"
+  },
+  "title": "JavaScript",
+  "description": "Full Stack Development",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T12:42:33.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675eceb97ef881f80f419fa8"
+  },
+  "title": "NodeJS",
+  "description": "JavaScript Runtime",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T12:42:33.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a9abad8675f42ca7f86"
+  },
+  "title": "React",
+  "description": "JavaScript Library",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T16:58:02.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b00bad8675f42ca7f88"
+  },
+  "title": "MongoDB",
+  "description": "NoSQL Database",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T16:59:44.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b00bad8675f42ca7f89"
+  },
+  "title": "ExpressJS",
+  "description": "Microframe for NodeJS",
+  "status": "active",
+  "date": {
+    "$date": "2024-12-15T16:59:44.613Z"
+  },
+  "__v": 0
+}]
