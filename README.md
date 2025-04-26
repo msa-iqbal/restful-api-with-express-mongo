@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
 
    Server will run on: `http://localhost:3000`.
 
-## Folder Structure
+## Project Structure
 
 ```bash
 todo-api/
@@ -58,7 +58,7 @@ todo-api/
 └── package.json           # Project metadata and dependencies
 ```
 
-## API CRUD Operation
+## API Endpoints
 
 #### ❏❏❏ GET All Todos
 
