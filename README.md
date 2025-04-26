@@ -58,7 +58,7 @@ todo-api/
 └── package.json           # Project metadata and dependencies
 ```
 
-## API Endpoints Or CRUD Operation
+## API Endpoints | CRUD Operation
 
 #### ⿻ GET All Todos
 
