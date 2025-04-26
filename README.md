@@ -58,9 +58,9 @@ todo-api/
 └── package.json           # Project metadata and dependencies
 ```
 
-## API Endpoints | CRUD Operation
+## API CRUD Operation
 
-#### ⿻ GET All Todos
+#### ❏❏❏ GET All Todos
 
 - **Endpoint**: `/todo`
 
@@ -80,13 +80,13 @@ todo-api/
   }
   ```
 
-#### ⿻ GET a Todo by ID
+#### ❏❏❏ GET a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 - **Method**: `GET`
 - **Description**: Fetch a specific Todo item by ID.
 
-#### ⿻ POST a Todo
+#### ❏❏❏ POST a Todo
 
 - **Endpoint**: `/todo`
 
@@ -112,7 +112,7 @@ todo-api/
   }
   ```
 
-#### ⿻ POST Multiple Todos
+#### ❏❏❏ POST Multiple Todos
 
 - **Endpoint**: `/todo/all`
 
@@ -129,7 +129,7 @@ todo-api/
   ]
   ```
 
-#### ⿻ PUT (Update) a Todo by ID
+#### ❏❏❏ PUT (Update) a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 
@@ -146,13 +146,13 @@ todo-api/
   }
   ```
 
-#### ⿻ DELETE a Todo by ID
+#### ❏❏❏ DELETE a Todo by ID
 
 - **Endpoint**: `/todo/:id`
 - **Method**: `DELETE`
 - **Description**: Deletes a specific Todo by ID.
 
-## **📌 License**
+## **📄 License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
